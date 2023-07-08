@@ -1,0 +1,4 @@
+SRR16993379	/app/data/SRR16993379_illumina_1.fastq.gz	/app/data/SRR16993379_illumina_2.fastq.gz
+SRR5329951	/app/data/SRR5329951_badq_1.fastq.gz	/app/data/SRR5329951_badq_2.fastq.gz
+aSRR8182677	/app/data/SRR8182677_goodq_1.fastq.gz	/app/data/SRR8182677_goodq_2.fastq.gz
+SRR6482979	/app/data/SRR6482979_size_1.fastq.gz	/app/data/SRR6482979_size_2.fastq.gz
